@@ -1,0 +1,26 @@
+# README (Missions)
+# This README contains instructions to create Missions.
+
+# To add a Mission, you have to create a Infofile in this directory.
+# Name the File
+#	-"hum_mission_X.inf"
+#	-"sha_mission_X.inf"
+#	-"both_mission_X.inf"
+#
+# Where X is a Number from 0 to infinit.
+
+
+# The File must(!) contain the following Infos:
+#
+# Name=
+# Description=
+# IconLoaction=
+# MapLocation=
+#
+
+# NOTE: Im not sure if you can cancel a linebreak with \\n at the Moment.
+#	This may have to be implemented in the Furture from the Info-
+#	Loader, to write a better Readable Description (Descriptions
+#	sometimes getting very long).
+
+# When you are finished, than the StoryScreen should atomatically load and show your Mission.

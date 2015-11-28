@@ -18,9 +18,4 @@
 # MapLocation=
 #
 
-# NOTE: Im not sure if you can cancel a linebreak with \\n at the Moment.
-#	This may have to be implemented in the Furture from the Info-
-#	Loader, to write a better Readable Description (Descriptions
-#	sometimes getting very long).
-
 # When you are finished, than the StoryScreen should atomatically load and show your Mission.

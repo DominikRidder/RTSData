@@ -1,0 +1,22 @@
+# Human Mission 0
+
+Name=A Rising Threat
+
+IconLocation=NotFound.png
+
+MapLocation=maptest.mpd
+
+
+Description=The residents of the Kingdom, it has never \
+been so good as now. The soil was fertile and the \
+economy boomed. Unfortunately, exactly this happiness \
+were disturbed when suddenly a threat in the distance appeared ...
+
+
+
+#German:
+#
+# Den Bewohnern des Königreiches ging es noch nie so 
+# gut wie jetzt. Der Boden war fruchtbar und die Wirtschaft 
+# boomte. Leider war genau dieses glück gestört wurden, als 
+# plötzlich eine Bedrohung in der Ferne erschien...

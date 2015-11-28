@@ -8,7 +8,7 @@
 mkdir data
 cd data
 git init
-git add remote data https://github.com/DominikRidder/RTSData
+git remote add data https://github.com/DominikRidder/RTSData
 git pull data master
 
 

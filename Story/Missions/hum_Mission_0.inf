@@ -3,21 +3,12 @@
 Name=A Rising Threat
 
 #IconLocation=NotFound.png
-IconLoaction=Barracks.png
+IconLocation=Barracks.png
 
-MapLocation=maptest.mpd
-
-
-Description=The residents of the Kingdom, it has never \
-been so good as now. The soil was fertile and the \
-economy boomed. Unfortunately, exactly this happiness \
-were disturbed when suddenly a threat in the distance appeared ...
+MapLocation=data/Maps/newmap.mpd
 
 
-
-#German:
-#
-# Den Bewohnern des Königreiches ging es noch nie so 
-# gut wie jetzt. Der Boden war fruchtbar und die Wirtschaft 
-# boomte. Leider war genau dieses glück gestört wurden, als 
-# plötzlich eine Bedrohung in der Ferne erschien...
+Description=Den Bewohnern des Koenigreiches ging es noch nie so \
+gut wie jetzt. Der Boden war fruchtbar und die Wirtschaft \
+boomte. Leider war genau dieses glueck gestoert wurden, als \
+ploetzlich eine Bedrohung in der Ferne erschien... 

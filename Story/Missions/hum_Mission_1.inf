@@ -1,0 +1,20 @@
+# Human Mission 0
+
+Name=A Rising Threat
+
+#IconLocation=NotFound.png
+IconLoaction=Barracks.png
+
+MapLocation=maptest.mpd
+
+
+Description=Gregor ist Awesome
+
+
+
+#German:
+#
+# Den Bewohnern des Königreiches ging es noch nie so 
+# gut wie jetzt. Der Boden war fruchtbar und die Wirtschaft 
+# boomte. Leider war genau dieses glück gestört wurden, als 
+# plötzlich eine Bedrohung in der Ferne erschien...

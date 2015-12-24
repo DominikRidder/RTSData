@@ -3,7 +3,7 @@
 Name=A Rising Threat
 
 #IconLocation=NotFound.png
-IconLocation=Barracks.png
+IconLocation=MissionImage0.png
 
 MapLocation=data/Maps/newmap.mpd
 
